@@ -8,6 +8,10 @@ body {
     position: relative;
     text-align: bottom-left;
     color:firebrick;
+    padding-top: 15%;
+    padding-left: 15%;
+    font-size: x-large;
+    
     
 }
  image{
@@ -17,4 +21,8 @@ body {
     max-width: 100%;
     height: auto;
 }
-    
+    h1 {
+
+      margin-left: 2%;
+      color: chocolate;
+    }
