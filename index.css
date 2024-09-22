@@ -1,6 +1,6 @@
 body {
 
-    background-image: url("images/heatlhytable.jpg");
+    background-image: url("images/healthytable.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -8,7 +8,7 @@ body {
     position: relative;
     text-align: bottom-left;
     color:firebrick;
-    padding-top: 15%;
+    padding-top: 20%;
     padding-left: 15%;
     font-size: x-large;
     
