@@ -2,7 +2,7 @@ body {
 
     background-image: url("images/healthytable.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:  cover; /*auto displays image at its default size, cover fills the whole page, contain scales image to the outer edges without cropping or stretching */
     background-position: center;
     background-attachment: fixed;
     position: relative;
@@ -26,3 +26,7 @@ body {
       margin-left: 2%;
       color: chocolate;
     }
+
+h3 {
+ text-align: center;
+}
