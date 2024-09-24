@@ -29,8 +29,8 @@ a {
     font-style: italic;
     
 }
-p {
-    text-align: center;
+p  {
+    padding-left: 15px;
 }
 .align.heading {
     text-align: center;
