@@ -5,8 +5,7 @@ body {
     background-size:  cover; /*auto displays image at its default size, cover fills the whole page, contain scales image to the outer edges without cropping or stretching */
     background-position: center;
     background-attachment: fixed;
-    position: relative;
-    text-align: bottom-left;
+    position: relative; 
     color:firebrick;
     padding-top: 20%;
     padding-left: 15%;
@@ -23,10 +22,21 @@ body {
 }
     h1 {
 
-      margin-left: 2%;
+      margin-left: 2%;    
       color: chocolate;
-    }
 
-h3 {
- text-align: center;
+
+}
+
+a {
+    color: rgb(136, 43, 199);
+}
+
+.box {
+    border: 15px solid green;
+    outline: 5px solid blue;
+    display:inline-block;
+    padding: 5px;
+    
+    
 }
